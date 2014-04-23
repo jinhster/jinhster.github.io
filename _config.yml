@@ -3,7 +3,6 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 safe: true
-production_url :
 paginate: 5
 BASE_PATH : false
 ASSET_PATH : false
