@@ -6,7 +6,7 @@ categories: coding
 ---
 
 1. Client cache
-	The client will most likely revisit(get) the same resource over and over again. Like a borowse will visit the home page or an article on a web page over and over again. If there isn't any changes on the resource we could use the http's "304 Not Modified". You can use the client cache for this and don't have to ask the server to recreate the same resource over.
+	The client will most likely revisit(get) the same resource over and over again. Like a borowse will visit the home page or an article on a web page over and over again. If there isn't any changes on the resource we could use the https "304 Not Modified". You can use the client cache for this and don't have to ask the server to recreate the same resource over.
 
 {% highlight ruby %}
 	class PagesController
