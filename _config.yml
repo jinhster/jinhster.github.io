@@ -1,7 +1,7 @@
 name: Mr Bread's charmber
 permalink: /:categories/:year/:month/:day/:title 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
+pygments: false
 safe: true
 paginate: 5
 BASE_PATH : false

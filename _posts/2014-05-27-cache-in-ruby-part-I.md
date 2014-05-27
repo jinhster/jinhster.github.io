@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cache in Ruby part I"
-date:   2014-05-15
+date:   2014-05-27
 categories: coding
 ---
 
