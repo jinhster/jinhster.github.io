@@ -27,13 +27,8 @@ border-radius: 4px;
 -moz-border-radius: 4px;
 color: #C5CBD0;
 /*color: white*/
-background-image: url(/images/opaque_20.png);
 font-family: Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
 font-size: 1.1em;
-/*height: 0px;
-image-rendering: auto;
-left: auto;
-list-style-type: disc;*/
 padding-bottom: 2px;
 padding-left: 4px;
 padding-right: 4px;
