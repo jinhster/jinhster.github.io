@@ -2,7 +2,7 @@ name: Mr Bread's charmber
 permalink: /:categories/:year/:month/:day/:title 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 safe: true
-paginate: 5
+paginate: 3
 BASE_PATH : false
 ASSET_PATH : false
 archive_path: /archive.html
@@ -10,6 +10,7 @@ categories_path : /categories.html
 tags_path : /tags.html
 pygments: true
 safe: true
+markdown: rdiscount
+highlighter: rouge
 # UTF-8
-markdown: redcarpet
 extensions: [fenced_code_blocks]

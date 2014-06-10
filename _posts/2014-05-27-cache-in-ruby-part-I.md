@@ -11,6 +11,7 @@ categories: coding
 	When the client revisit the same page it will look at http's request header and if the If-Modified-Since and if the If-None-Match is found it will return 304.
 
 	More to come...
+
 {% highlight ruby %}
 	class PagesController
   		def show
@@ -18,5 +19,4 @@ categories: coding
     		fresh_when :last_modified => @page.updated_at
  		end
 	end 
-
 {% endhighlight %}
