@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Mechanical keyboard cherry mx switches"
 date:   2015-01-04
