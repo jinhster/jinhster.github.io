@@ -8,7 +8,7 @@ ASSET_PATH : false
 archive_path: /archive.html
 categories_path : /categories.html
 tags_path : /tags.html
-pygments: true
+highlighter: pygments
 safe: true
 markdown: rdiscount
 highlighter: rouge
