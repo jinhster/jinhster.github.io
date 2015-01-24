@@ -12,11 +12,11 @@ categories: coding
 
 	More to come...
 
-{% highlight ruby %}
+```ruby
 	class PagesController
   		def show
     		@page = page.find(params[:id])
     		fresh_when :last_modified => @page.updated_at
  		end
-	end 
-{% endhighlight %}
+	end
+```

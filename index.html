@@ -7,7 +7,7 @@ title: Mr_Bread's charmber (Good pun? Bad pun?)
 <div class="posts fn-clear">
   {% for post in paginator.posts %}
     <article class='{{post.icon}}'>
-    	<div class="">	    
+    	<div class="">
     		<h3><span class='date'>{{ post.date | date:"%m.%d"}}</span><a class='title' href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
           </h3>
     	</div>
@@ -18,8 +18,8 @@ title: Mr_Bread's charmber (Good pun? Bad pun?)
 
 <div class="pagination">
   <ul>
-      <li {% if paginator.page == 1 %} class="active" {% endif %}>   
-        <a href="/">1</a>  
+      <li {% if paginator.page == 1 %} class="active" {% endif %}>
+        <a href="/">1</a>
       </li>
 
     {% for count in (2..paginator.total_pages) %}
@@ -29,6 +29,6 @@ title: Mr_Bread's charmber (Good pun? Bad pun?)
     {% endfor %}
   </ul>
  <div class="footer">
-  <p>Powered by Jekyll</p>
+  <p>Powered by Jekyll 2015</p>
 </div>
 </div>

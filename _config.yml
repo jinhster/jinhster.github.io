@@ -1,5 +1,5 @@
 name: Mr Bread's charmber
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 safe: true
 paginate: 3
