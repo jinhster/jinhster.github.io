@@ -8,9 +8,7 @@ ASSET_PATH : false
 archive_path: /archive.html
 categories_path : /categories.html
 tags_path : /tags.html
-highlighter: pygments
-safe: true
 markdown: rdiscount
-highlighter: rouge
+#highlighter: rouge
 # UTF-8
 extensions: [fenced_code_blocks]

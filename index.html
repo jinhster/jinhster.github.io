@@ -7,12 +7,12 @@ title: Mr_Bread's charmber (Good pun? Bad pun?)
 <div class="posts fn-clear">
   {% for post in paginator.posts %}
     <article class='{{post.icon}}'>
-    	<div class="">
-    		<h3><span class='date'>{{ post.date | date:"%m.%d"}}</span><a class='title' href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+      <div class="">
+        <h3><span class='date'>{{ post.date | date:"%m.%d"}}</span><a class='title' href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
           </h3>
-    	</div>
+      </div>
 
-   	</article>
+     </article>
   {% endfor %}
 </div>
 

@@ -7,7 +7,7 @@ categories: keyboard
 
 
 <h3>Here is PBT rainbow set</h3>
-![PBT rainbow](http://i.imgur.com/Y02KlyL.jpg)
+![PBT rainbow](http://i.imgur.com/Y02KlyL.jpg =500x)
 
 
 <b>A</b>fter playing around with mechanical keyboards for a year or so, I decided to write about it from my point of view. I was always under the impression that typing on a mechanical keyboard will make you type faster, well, that's not always the case, at least not for me. But it does make you want to type more because it has a magical power that trigger you brain in saying that it is good for you (No, I am kidding.). Unlike the rubber dome that we all use, mechanical keyboard give you a different feeling when you press it. Every keys that you press has a switch under the keycap. All the switch does is telling the computer board inside the keyboard that this key is pressed (So, basically it's a Boolean - True/False (Pressed/Not Press)). It's hard to describe to a person who never used a mechanical keyboard before on how it feel when you press it. The best way of understanding is actually to use it, words just simply doesn't apply on this. But from my experiences and understanding of different Cherry MX switches. There are a few switches that stand out the most: Blue, Brown, Black, Red, Clear, and Green. Black is a heavier version of Red, Clear is heavier version of Brown and Green is a heavier version of Blue. (By heavier version I mean you need to use more force to press it). There are other switches, but the one made by Cherry named Cherry MX is probably the most used one on the market right now. (So you can find different brand of mechanical keyboards but they all uses the same Cherry MX switches).
