@@ -12,7 +12,8 @@ categories: coding
 
 	More to come...
 
-``` ruby
+
+```ruby
 
 	class PagesController
   		def show

@@ -15,7 +15,7 @@ In order to use browserStack you need an account(Free account get 100 minutes au
 
 In Ruby:
 
-``` ruby
+```ruby
 
 require 'selenium-webdriver' #Require to run selenium #Below here are the data that you can use caps = Selenium::WebDriver::Remote::Capabilities.new caps["browser"] = "Firefox" #Browser caps["browser_version"] = "33.0" #Browser version caps["os"] = "Windows" #OS caps["os_version"] = "XP" #OS version caps["browserstack.debug"] = "true" # caps["name"] = "Testing on browserstack" #Name of the test
 
@@ -31,4 +31,4 @@ driver.quit
 
 ```
 
-You can try to run it on CMD: Ruby nameofthefile.rb But, before this we need to set up the local testing.[Download here](https://www.browserstack.com/browserstack-local/BrowserStackLocal-win32.zip), download the file and unzip it. Put it in the same folder where you store your testing script. Open up CMD, enter: BrowserStackLocal.exe "replace with your access key (get rid of the double quote)" localhost,3000,0 And then run the script using: Ruby nameofthefile.rb. It should connect you with browserstack and you can view your result in [here](https://www.browserstack.com/automate)here.
+You can try to run it on CMD: Ruby nameofthefile.rb But, before this we need to set up the local testing. [Download here](https://www.browserstack.com/browserstack-local/BrowserStackLocal-win32.zip), download the file and unzip it. Put it in the same folder where you store your testing script. Open up CMD, enter: BrowserStackLocal.exe "replace with your access key (get rid of the double quote)" localhost,3000,0 And then run the script using: Ruby nameofthefile.rb. It should connect you with browserstack and you can view your result in [here](https://www.browserstack.com/automate).
