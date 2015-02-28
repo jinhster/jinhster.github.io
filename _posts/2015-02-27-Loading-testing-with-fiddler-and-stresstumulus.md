@@ -16,52 +16,52 @@ After that open fiddler and try going to a site.
 Fiddler will log all the traffic that you are currently using.
 Select all and create a test case with stresstimulus commands.
 
-![Imgur](http://i.imgur.com/wpfuw3Z.png =500x)
+![Imgur](http://i.imgur.com/wpfuw3Z.png =900x)
 
 Press next
 
-![Imgur](http://i.imgur.com/3toC3Z9.png =500x)
+![Imgur](http://i.imgur.com/3toC3Z9.png =900x)
 
 Filter the external site (Some site will use external link like google analytics).
 
-![Imgur](http://i.imgur.com/6cPwWnN.png =500x)
+![Imgur](http://i.imgur.com/6cPwWnN.png =900x)
 
 Next
 
-![Imgur](http://i.imgur.com/ZDuBFf8.png =500x)
+![Imgur](http://i.imgur.com/ZDuBFf8.png =900x)
 
 Choose amount of virtual users you want to use for the load testing.
 
-![Imgur](http://i.imgur.com/InqsBNj.png =500x)
+![Imgur](http://i.imgur.com/InqsBNj.png =900x)
 
 You can even do a step load (Setting timer on virtual users, like when the users will increase over time).
 
-![Imgur](http://i.imgur.com/jGf6oP9.png =500x)
+![Imgur](http://i.imgur.com/jGf6oP9.png =900x)
 
 How many number of iterations you want the users to do.
 
-![Imgur](http://i.imgur.com/XSi30IK.png =500x)
+![Imgur](http://i.imgur.com/XSi30IK.png =900x)
 
 Press run test
 
-![Imgur](http://i.imgur.com/HE7VRhD.png =500x)
+![Imgur](http://i.imgur.com/HE7VRhD.png =900x)
 
 You can observe the graph for load over time and see how it perform.
 
-![Imgur](http://i.imgur.com/SsORr5O.png =500x)
+![Imgur](http://i.imgur.com/SsORr5O.png =900x)
 
 After you are done stresstumulus will generate a report for you.
 
-![Imgur](http://i.imgur.com/pAvQRKQ.png =500x)
+![Imgur](http://i.imgur.com/pAvQRKQ.png =900x)
 
 
 Since we are on fiddler there's a trick in fiddler, works like the network tab in developer's tool in chrome and other browsers, but better. Why? I will show you.
 
-![Imgur](http://i.imgur.com/9U4li1e.png =500x)
+![Imgur](http://i.imgur.com/9U4li1e.png =900x)
 
 You can actually change the performance of the traffic (You can set it to simulate modem speeds (Highest is 56KB/s if you are wondering)).
 
-![Imgur](http://i.imgur.com/yjGNhfb.png =500x)
+![Imgur](http://i.imgur.com/yjGNhfb.png =900x)
 
 See how slow it is now?
 

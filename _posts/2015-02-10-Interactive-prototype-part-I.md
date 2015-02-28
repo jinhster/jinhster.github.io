@@ -9,7 +9,7 @@ categories: design
 
 <h3>Invision live sharing demo</h3>
 
-[Imgur](http://i.imgur.com/GC8cT1R.png =500x)
+![Imgur](http://i.imgur.com/GC8cT1R.png =500x)
 
 Group chat on the bottom left for discussion, comments on the bottom right for anyone to add comment on any page. You can navigate different demos using the arrow keys. The highlighted boxes are intractable to make it work like the real live application on mobile.
 
